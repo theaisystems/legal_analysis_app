@@ -61,7 +61,7 @@ The Frontend can be run alone to experience the look and feel of the app and if 
 ### Setup
 Clone the repository to your local machine:
 ```bash
-git clone https://theaisystems-private@github.com/theaisystems/legal_analysis_app.git
+git clone https://github.com/theaisystems/legal_analysis_app.git
 cd legal_analysis_app\frontend
 ```
 
