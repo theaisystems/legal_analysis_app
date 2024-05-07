@@ -100,3 +100,6 @@ docker run -p 9010:9010 --name <name_of__docker_container> <name_of_docker_image
 ## Live App
 
 Live experience of the app can be experienced on https://legalanalysis-app.azurewebsites.net
+
+- ID: user1
+- Password: abc1
